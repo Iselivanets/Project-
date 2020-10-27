@@ -1,0 +1,9 @@
+c:\users\олег\documents\visual studio 2015\Projects\calc + palindrom\calc + palindrom\bin\Debug\calc + palindrom.exe.config
+c:\users\олег\documents\visual studio 2015\Projects\calc + palindrom\calc + palindrom\bin\Debug\calc + palindrom.exe
+c:\users\олег\documents\visual studio 2015\Projects\calc + palindrom\calc + palindrom\bin\Debug\calc + palindrom.pdb
+c:\users\олег\documents\visual studio 2015\Projects\calc + palindrom\calc + palindrom\obj\Debug\calc + palindrom.csprojResolveAssemblyReference.cache
+c:\users\олег\documents\visual studio 2015\Projects\calc + palindrom\calc + palindrom\obj\Debug\calc___palindrom.Form1.resources
+c:\users\олег\documents\visual studio 2015\Projects\calc + palindrom\calc + palindrom\obj\Debug\calc___palindrom.Properties.Resources.resources
+c:\users\олег\documents\visual studio 2015\Projects\calc + palindrom\calc + palindrom\obj\Debug\calc + palindrom.csproj.GenerateResource.Cache
+c:\users\олег\documents\visual studio 2015\Projects\calc + palindrom\calc + palindrom\obj\Debug\calc + palindrom.exe
+c:\users\олег\documents\visual studio 2015\Projects\calc + palindrom\calc + palindrom\obj\Debug\calc + palindrom.pdb
