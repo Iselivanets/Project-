@@ -1,0 +1,6 @@
+c:\users\олег\documents\visual studio 2015\Projects\Saper\Saper\bin\Debug\Saper.exe.config
+c:\users\олег\documents\visual studio 2015\Projects\Saper\Saper\bin\Debug\Saper.exe
+c:\users\олег\documents\visual studio 2015\Projects\Saper\Saper\bin\Debug\Saper.pdb
+c:\users\олег\documents\visual studio 2015\Projects\Saper\Saper\obj\Debug\Saper.csprojResolveAssemblyReference.cache
+c:\users\олег\documents\visual studio 2015\Projects\Saper\Saper\obj\Debug\Saper.exe
+c:\users\олег\documents\visual studio 2015\Projects\Saper\Saper\obj\Debug\Saper.pdb
